@@ -45,6 +45,7 @@ To add a Web App:
  - [Pixlr](https://pixlr.com/) - Pro: Many features.
  - [Fotor](http://www.fotor.com/) - Pro: Color manipulation.
  - [Aviary](https://www.aviary.com/) - Con: Few features. Pro: Reliable: Isn't buggy and doesn't crash.
+ - [GifKit](https://gifkit.net/) - Browser-based GIF toolkit for compression, cropping, speed changes, frame extraction, and typing-text GIFs. Pro: No signup or uploads, and files stay in the browser. Con: Compression is lossy and may not reach every target size.
 
 <!--- Dissmissed
  - http://photooutcome.com/ - Alternatives seem to be better.
